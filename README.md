@@ -7,10 +7,6 @@ This repository contains solutions to 20 programming problems in C#, focusing on
 - [Description](#description)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Questions List](#questions-list)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -35,4 +31,4 @@ Each solution is implemented as a separate region within the main program file, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/csharp-loops-arrays-assignment.git
+   git clone https://github.com/saramohamed512/C44---G03---CS04.get
